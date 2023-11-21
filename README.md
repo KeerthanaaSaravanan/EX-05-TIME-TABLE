@@ -67,7 +67,7 @@ Execute the program
 
 # OUPUT
 
-OUTPUT.png
+
 
 # RESULT
 
