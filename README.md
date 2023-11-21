@@ -67,7 +67,7 @@ Execute the program
 
 # OUPUT
 
-![Alt text](OUTPUT.png)
+OUTPUT.png
 
 # RESULT
 
