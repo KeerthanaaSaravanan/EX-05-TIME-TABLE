@@ -71,6 +71,7 @@ Register no:23013398
 
 # OUPUT
 
+![OUTPUT](https://github.com/KeerthanaaSaravanan/EX-05-TIME-TABLE/assets/145742596/f429097a-a1b9-4cea-acb1-faed3e7a4fa0)
 
 
 # RESULT
