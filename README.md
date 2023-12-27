@@ -1,4 +1,4 @@
-# Ex-05-Timetable
+# Ex-05: Timetable
 ## AIM
 To Write a html webpage page to display your timetable.
 
@@ -15,6 +15,10 @@ Execute the program
 # CODE
 
 ```
+'''
+Developed By: KEERTHANA S
+Register no:23013398
+'''
 <html>
   <head>
   </head>
